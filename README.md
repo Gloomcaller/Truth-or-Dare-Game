@@ -4,7 +4,7 @@ Welcome to the **Truth or Dare Game**! This is a fun and interactive web-based g
 
 ## How to Play
 
-Simply go to the link below and have fun:
+Simply go to this link and have fun:
 [Truth or Dare](https://gloomcaller.github.io/Truth-or-Dare-Game/)
 
 ## Features
