@@ -2,14 +2,10 @@
 
 Welcome to the **Truth or Dare Game**! This is a fun and interactive web-based game where you can play Truth or Dare with your friends or partner. Choose between **Classic Mode** and **Couples Mode** for a tailored experience.
 
----
-
 ## How to Play
 
 Simply go to the link below and have fun:
 [Truth or Dare](https://gloomcaller.github.io/Truth-or-Dare-Game/)
-
----
 
 ## Features
 
@@ -17,8 +13,6 @@ Simply go to the link below and have fun:
 - **Randomized Prompts**: No repeats until all prompts are used.
 - **Mobile-Friendly**: Works seamlessly on both desktop and mobile devices.
 - **Customizable**: Easily add more truths and dares in the JSON files.
-
----
 
 ## How to Run Locally
 
@@ -31,8 +25,6 @@ Simply go to the link below and have fun:
 3. **Run a Local Server (Optional)**:
    - Use a local server (e.g., Live Server in VS Code or Python’s HTTP server).
 
----
-
 ## Customization
 
 1. Clone or download the project files to your computer.
@@ -42,8 +34,6 @@ Simply go to the link below and have fun:
 3. Edit the `classic.json` and `couples.json` files to add more truths and dares.
 
 4. Have fun!
-
----
 
 ## License
 
