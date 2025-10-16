@@ -23,7 +23,7 @@ Simply go to this link and have fun:
    - Open `index.html` in your browser to start playing.
 
 3. **Run a Local Server (Optional)**:
-   - Use a local server (e.g., Live Server in VS Code or Python’s HTTP server).
+   - Use a local server (e.g., Live Server in VS Code).
 
 ## Customization
 
